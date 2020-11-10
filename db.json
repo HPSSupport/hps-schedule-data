@@ -24,5 +24,49 @@
         { "id": "5", "start": "13:38", "end": "14:43", "nextStart": "14:43" }
       ]
     }
+  ],
+  "hms": [
+    {
+      "id": "hms6",
+      "title": "6th Grade",
+      "periods": [
+        {"id": "1", "start": "7:45", "end": "8:30", "nextStart": "8:40"},
+        {"id": "2", "start": "8:40", "end": "9:25", "nextStart": "9:30"},
+        {"id": "3", "start": "9:30", "end": "10:15", "nextStart": "10:30"},
+        {"id": "4", "start": "10:30", "end": "11:15", "nextStart": "11:20"},
+        {"id": "5", "start": "11:20", "end": "12:05", "nextStart": "12:05"},
+        {"id": "L", "start": "12:05", "end": "12:45", "nextStart": "12:50"},
+        {"id": "6", "start": "12:50", "end": "13:35", "nextStart": "13:40"},
+        {"id": "7", "start": "13:40", "end": "14:33", "nextStart": "14:33"}
+      ]
+    },
+    {
+      "id": "hms7",
+      "title": "7th Grade",
+      "periods": [
+        {"id": "1", "start": "", "end": "", "nextStart": ""},
+        {"id": "2", "start": "", "end": "", "nextStart": ""},
+        {"id": "3", "start": "", "end": "", "nextStart": ""},
+        {"id": "4", "start": "", "end": "", "nextStart": ""},
+        {"id": "L", "start": "", "end": "", "nextStart": ""},
+        {"id": "5", "start": "", "end": "", "nextStart": ""},
+        {"id": "6", "start": "", "end": "", "nextStart": ""},
+        {"id": "7", "start": "", "end": "", "nextStart": ""}
+      ]
+    },
+    {
+      "id": "hms8",
+      "title": "8th Grade",
+      "periods": [
+        {"id": "1", "start": "", "end": "", "nextStart": ""},
+        {"id": "2", "start": "", "end": "", "nextStart": ""},
+        {"id": "3", "start": "", "end": "", "nextStart": ""},
+        {"id": "L", "start": "", "end": "", "nextStart": ""},
+        {"id": "4", "start": "", "end": "", "nextStart": ""},
+        {"id": "5", "start": "", "end": "", "nextStart": ""},
+        {"id": "6", "start": "", "end": "", "nextStart": ""},
+        {"id": "7", "start": "", "end": "", "nextStart": ""}
+      ]
+    }
   ]
 }
