@@ -2,6 +2,7 @@
   "hhs": [
     {
       "id": "hhsa",
+      "title": "HHS A-Lunch",
       "periods": [
         { "id": "1", "start": "7:45", "end": "8:50", "nextStart": "9:00" },
         { "id": "2", "start": "9:00", "end": "10:05", "nextStart": "10:10"},
@@ -13,6 +14,7 @@
     },
     {
       "id": "hhsb",
+      "title": "HHS B-Lunch",
       "periods": [
         { "id": "1", "start": "7:45", "end": "8:50", "nextStart": "9:00" },
         { "id": "2", "start": "9:00", "end": "10:05", "nextStart": "10:15"},
