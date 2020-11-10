@@ -44,28 +44,28 @@
       "id": "hms7",
       "title": "7th Grade",
       "periods": [
-        {"id": "1", "start": "", "end": "", "nextStart": ""},
-        {"id": "2", "start": "", "end": "", "nextStart": ""},
-        {"id": "3", "start": "", "end": "", "nextStart": ""},
-        {"id": "4", "start": "", "end": "", "nextStart": ""},
-        {"id": "L", "start": "", "end": "", "nextStart": ""},
-        {"id": "5", "start": "", "end": "", "nextStart": ""},
-        {"id": "6", "start": "", "end": "", "nextStart": ""},
-        {"id": "7", "start": "", "end": "", "nextStart": ""}
+        {"id": "1", "start": "7:45", "end": "8:35", "nextStart": "8:40"},
+        {"id": "2", "start": "8:40", "end": "9:30", "nextStart": "9:40"},
+        {"id": "3", "start": "9:40", "end": "10:30", "nextStart": "10:35"},
+        {"id": "4", "start": "10:35", "end": "11:20", "nextStart": "11:20"},
+        {"id": "L", "start": "11:20", "end": "12:00", "nextStart": "12:05"},
+        {"id": "5", "start": "12:05", "end": "12:55", "nextStart": "13:00"},
+        {"id": "6", "start": "13:00", "end": "13:45", "nextStart": "13:55"},
+        {"id": "7", "start": "13:55", "end": "14:38", "nextStart": "14:48"}
       ]
     },
     {
       "id": "hms8",
       "title": "8th Grade",
       "periods": [
-        {"id": "1", "start": "", "end": "", "nextStart": ""},
-        {"id": "2", "start": "", "end": "", "nextStart": ""},
-        {"id": "3", "start": "", "end": "", "nextStart": ""},
-        {"id": "L", "start": "", "end": "", "nextStart": ""},
-        {"id": "4", "start": "", "end": "", "nextStart": ""},
-        {"id": "5", "start": "", "end": "", "nextStart": ""},
-        {"id": "6", "start": "", "end": "", "nextStart": ""},
-        {"id": "7", "start": "", "end": "", "nextStart": ""}
+        {"id": "1", "start": "7:45", "end": "8:25", "nextStart": "8:30"},
+        {"id": "2", "start": "8:30", "end": "9:15", "nextStart": "9:25"},
+        {"id": "3", "start": "9:25", "end": "10:20", "nextStart": "10:20"},
+        {"id": "L", "start": "10:20", "end": "11:00", "nextStart": "11:05"},
+        {"id": "4", "start": "11:05", "end": "11:50", "nextStart": "11:55"},
+        {"id": "5", "start": "11:55", "end": "12:40", "nextStart": "12:50"},
+        {"id": "6", "start": "12:50", "end": "13:40", "nextStart": "13:45"},
+        {"id": "7", "start": "13:45", "end": "14:43", "nextStart": "14:43"}
       ]
     }
   ]
