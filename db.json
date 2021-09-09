@@ -10,7 +10,7 @@
         { "id": "3", "start": "10:39", "end": "11:46", "nextStart": "11:51" },
         { "id": "4", "start": "11:51", "end": "12:58", "nextStart": "13:03" },
         { "id": "5", "start": "13:03", "end": "14:10", "nextStart": "14:15" },
-        { "id": "H", "start": "14:15", "end": "14:43", "nextStart": "14:43" }
+        { "id": "M", "start": "14:15", "end": "14:43", "nextStart": "14:43" }
       ]
     },
     {
@@ -23,10 +23,10 @@
         { "id": "L", "start": "11:16", "end": "11:46", "nextStart": "11:51" },
         { "id": "4", "start": "11:51", "end": "12:58", "nextStart": "13:03" },
         { "id": "5", "start": "13:03", "end": "14:10", "nextStart": "14:15" },
-        { "id": "H", "start": "14:15", "end": "14:43", "nextStart": "14:43" }
+        { "id": "M", "start": "14:15", "end": "14:43", "nextStart": "14:43" }
       ]
-    },
-  ],
+    }
+  ]
   "hms": [
     {
       "id": "hms6",
