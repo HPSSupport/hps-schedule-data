@@ -5,6 +5,7 @@
       "title": "HHS A-Lunch",
       "periods": [
 <<<<<<< HEAD
+<<<<<<< HEAD
         { "id": "1", "start": "7:45", "end": "8:52", "nextStart": "8:57" },
         { "id": "2", "start": "8:57", "end": "10:04", "nextStart": "10:09"},
         { "id": "L", "start": "10:09", "end": "10:34", "nextStart": "10:39" },
@@ -21,6 +22,14 @@
         { "id": "4", "start": "12:27", "end": "13:30", "nextStart": "13:40" },
         { "id": "5", "start": "13:40", "end": "14:43", "nextStart": "14:43" }
 >>>>>>> parent of ec24339 (Update db.json)
+=======
+        { "id": "1", "start": "7:45", "end": "8:50", "nextStart": "9:00" },
+        { "id": "2", "start": "9:00", "end": "10:05", "nextStart": "10:10"},
+        { "id": "L", "start": "10:10", "end": "10:40", "nextStart": "10:45" },
+        { "id": "3", "start": "10:45", "end": "12:13", "nextStart": "12:23" },
+        { "id": "4", "start": "12:23", "end": "13:28", "nextStart": "13:38" },
+        { "id": "5", "start": "13:38", "end": "14:43", "nextStart": "14:43" }
+>>>>>>> parent of 0d0661f (Test commit)
       ]
     },
     {
