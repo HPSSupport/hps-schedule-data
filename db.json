@@ -15,7 +15,7 @@
     },
     {
       "id": "hhsb",
-      "title": "HHS Z-Lunch",
+      "title": "HHS B-Lunch",
       "periods": [
 	  { "id": "1", "start": "7:45", "end": "8:52", "nextStart": "8:57" },
         { "id": "2", "start": "8:57", "end": "10:04", "nextStart": "10:09"},
